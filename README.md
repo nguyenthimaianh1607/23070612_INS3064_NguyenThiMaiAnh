@@ -8,5 +8,5 @@
 - Homework 10 demmo: https://youtu.be/9dotwH5_YJI
 - Homework 07 demo: https://youtu.be/asS6qjEbsgI
 - Homework 06 demo: https://www.youtube.com/watch?v=PgrRRKG21Bk
-- Homework 05 demo: https://www.youtube.com/watch?v=TItv5P0IyZw&list=PLcprEUJKk3QA&index=1
-- Homework 04 demo: https://www.youtube.com/watch?v=aagpZ1DxDNw&list=PLcprEUJKk3QA&index=2
+- Homework 05 demo: https://youtu.be/TItv5P0IyZw
+- Homework 04 demo: https://youtu.be/aagpZ1DxDNw
